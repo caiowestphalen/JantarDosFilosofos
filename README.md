@@ -1,5 +1,5 @@
 # Jantar Dos Filósofos
-***Estudo de Caso — Uni Dom Bosco***
+***Estudo de Caso — Uni Dom Bosco*** <br>
 Algoritmo do Jantar dos Filósofos desenvolvido em **Python**
 
 O jantar dos filósofos é um problema sobre a sincronização na  comunicação entre processos e threads em sistemas operacionais. O  problema foi proposto por Edsger W. Dijkstra em 1965 e é considerado um  dos problemas clássicos sobre sistemas operacionais.            
