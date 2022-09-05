@@ -1,2 +1,2 @@
-# JantarDosFilosofos
-Estudo de caso Universidade Dom Bosco — Sistemas Operacionais — 2022
+# Jantar dos Filosofos
+### Estudo de caso — Uni Dom Bosco
