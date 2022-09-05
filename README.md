@@ -12,7 +12,7 @@ O objetivo é a criação de um algoritmo que seja  implementado de modo que cad
 
 ​                **Representação do deadlock no problema**                
 
-![](C:\Users\Familia\Desktop\JantarDosFilosofos\JantarDosFilosofos\deadlock.gif)
+![](deadlock.gif)
 
 Se um filósofo conseguir pegar apenas o primeiro garfo e por isso  devolve-lo a mesa, esperando um tempo fixo para tentar pegar os dois  garfos novamente, teremos um caso de starvation (inanição), onde o  filósofo poderá morrer de fome. Ele poderá tentar fazer a mesma ação de  pegar e depois devolver o garfo pra sempre, nunca conseguindo comer.            A solução do problema é feita para não ocorrer casos de  deadlock ou starvation. Para tal são utilizados os conceitos de semáforo e exclusão mútua (mutex)             
 
